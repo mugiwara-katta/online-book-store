@@ -1,4 +1,4 @@
-# E-Book-Store
+# Online-Book-Store
 
 
 commands to run these project:
@@ -6,12 +6,12 @@ first open the terminal in this folder  .\E Book Store cs257 project
 
 .\project\Scripts\activate.ps1 
 -----  command to set to the virtual env named project
-(in github env is not uploaded create your own env after pulling repo from github)
+(in github, virtual-env is not uploaded, we need to create our env after pulling repo from github.)
 
 python app.py 
 -----  command to run python file app.py
 
-An important screenshot(62): there is a small error in flaskuploads.py and it is resolved and kept screenshot
+Important: There is a small error in flaskuploads.py it has been resolved and uploaded as screenshot.
 
 some dependencies used:
 alembic==1.4.2
